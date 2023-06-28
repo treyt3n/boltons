@@ -10,5 +10,5 @@ from . import (
     setutils,
     listutils,
     statsutils,
-
+)
 from compat import make_sentinel, IS_PY2, IS_PY3
