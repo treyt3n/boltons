@@ -13,7 +13,7 @@ from setuptools import setup
 
 
 __author__ = 'Mahmoud Hashemi'
-__version__ = '23.0.1dev'
+__version__ = '23.1.2dev'
 __contact__ = 'mahmoud@hatnote.com'
 __url__ = 'https://github.com/mahmoud/boltons'
 __license__ = 'BSD'
@@ -49,6 +49,7 @@ setup(name='boltons',
           'Programming Language :: Python :: 3.9',
           'Programming Language :: Python :: 3.10',
           'Programming Language :: Python :: 3.11',
+          'Programming Language :: Python :: 3.12',
           'Programming Language :: Python :: Implementation :: CPython',
           'Programming Language :: Python :: Implementation :: PyPy', ]
       )
